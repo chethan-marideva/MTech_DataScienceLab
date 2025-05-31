@@ -30,7 +30,7 @@ print('\n Broadcasting example',inputArray)
 # Q 3: Create a dataframe with Name Age Marks
 
 data = {
-    'Name': ['Chethan M', 'Pavan', 'Sachin', 'George'],
+    'Name': ['Chethan M', 'Pavan', 'Sachin', 'Rajiv'],
     'Age': [37, 36, 35, 45],
     'Marks': [65, 100, 100, 35]
 }

@@ -1,1 +1,2 @@
-# IIID_MTech_DS_AI.
+Submitted Assignment for 31st May Lab -
+Path : May31_Lab_Assignment/ChethanM_PractiseQNumPy.py
