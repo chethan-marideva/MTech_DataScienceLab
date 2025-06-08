@@ -1,0 +1,8 @@
+Name,Age,Gender,Score,Attendance,Remarks
+Alice,14,Female,85,90,Good
+Bob,15,Male,78,85,Average
+Charlie,14,,92,95,Excellent
+David,,Male,88,,Good
+Eva,15,Female,80,88,
+Frank,14,Male,,92,Average
+Grace,15,Female,90,94,Excellent
