@@ -17,7 +17,7 @@ weather_data = pd.read_csv(ds_path)
 
 #Task - 1.Drop Date and Date ID from the Dataset
 weather_data = weather_data.drop(['date', 'date_id'], axis=1) 
-
+print(weather_data.head(5))
 
 #Task - 2.Compute the number of days with Fog, Partly cloudy, Broken clouds, Drizzle and plot the bar graph.
 
